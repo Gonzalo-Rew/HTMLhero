@@ -7,3 +7,5 @@ Hoy mi profesor ha añadio nuevos requisitos al proyecto:
   · Añadir un pie de página.
 
 Se han incorporado los nuevos requisitos a dia 10/02/2025.
+
+Requisitos aprobados por Luís Gómez
